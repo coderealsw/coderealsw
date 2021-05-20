@@ -1,5 +1,5 @@
 # Hi there 👋 , Lee Sang Un
-🎓 Codestates Computer Engineering  
+🎓 Codestates Software Engineering  
 👨🏻‍💻 **WEB FRONT-END** Developer  
 
   
