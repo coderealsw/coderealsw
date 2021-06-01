@@ -14,7 +14,7 @@
 [![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
   
-✨ *For More Info...* **[WEBSITE](https://ladev.netlify.app/)** | **[NOTION](https://www.notion.so/danmin20/Jeongmin-Lee-c92d4134bdb545b28d9895333292bd5c)**
+✨ *For More Info...* **[WEBSITE](https://ladev.netlify.app/)**
   
 **@CODESTATES** IM26 / Software Engineering Course <sub><sup>(2020.09 ~ 2021.04)</sup></sub>  
   
