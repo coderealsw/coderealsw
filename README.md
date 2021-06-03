@@ -15,9 +15,15 @@
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
   
 ✨ *For More Info...* **[WEBSITE](https://ladev.netlify.app/)**
-  
+<br>
+🚀 *Side Project*
+
+- Portfolio Site(TS기반 포트폴리오 사이트 - About, Project, Artwork)
+- Textum (작가를 위한 책 Mockup 짤 생성기)
+
 **@CODESTATES** IM26 / Software Engineering Course <sub><sup>(2020.09 ~ 2021.04)</sup></sub>  
-  
+
+
 <br>
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcoderealsw%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
