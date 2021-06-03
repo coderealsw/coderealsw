@@ -12,17 +12,16 @@
 [![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)](https://graphql.org/)
 [![Apollo Badge](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=white)](https://www.apollographql.com/)
 [![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/)
-[![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)
-  
+[![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://sass-lang.com/)  
+
+**@CODESTATES** IM26 / Software Engineering Course <sub><sup>(2020.09 ~ 2021.04)</sup></sub>  
+
 ✨ *For More Info...* **[WEBSITE](https://ladev.netlify.app/)**
 <br>
 🚀 *Side Project*
 
 - Portfolio Site(TS기반 포트폴리오 사이트 - About, Project, Artwork)
 - Textum (작가를 위한 책 Mockup 짤 생성기)
-
-**@CODESTATES** IM26 / Software Engineering Course <sub><sup>(2020.09 ~ 2021.04)</sup></sub>  
-
 
 <br>
 
