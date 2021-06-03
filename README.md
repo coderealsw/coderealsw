@@ -21,7 +21,7 @@
 🚀 *Side Project*
 
 - Portfolio(TS기반 포트폴리오 사이트 - About, Project, Artwork)
-- Textum (작가를 위한 Mockup 짤 생성기)
+- Textum (나의 글이 책 한편에, 텍스텀) - 자동 목업 생성기
 
 <br>
 
